@@ -1,13 +1,12 @@
 {
-  "title": "Dartmouth Brainhack 2017",
+  "title": "Dartmouth Brainhack 2018",
   "location": "Hanover, NH, USA",
-  "dates": "March 02-05, 2017",
-  "year": "2017",
+  "dates": "May 02-04, 2018",
+  "year": "2018",
   "background_img": "https://www.dartmouth.edu/~gallery/downloads/images/sunset-1280x1024.jpg",
   "color_theme": {"background": "#00693e", "font": "#fff", "link_color": "#00693e"},
   "global_brainhack_organizers": ["Cameron Craddock"],
-  "emailinfo": "mvdoc.gr@dartmouth.edu",
-  "registration_link":"https://www.eventbrite.com/myevent?eid=31611515895",
+  "emailinfo": "Vassiki.S.Chauhan.GR@dartmouth.edu",
   "slack_link":"https://brainhack-slack-invite.herokuapp.com/",
   "project_submit_link":"http://brainhack.org/submit-project/",
   "title_photo_link":"http://www.dartmouth.edu/~gallery/downloads/images/sunset-1280x1024.jpg",
@@ -29,13 +28,13 @@
     "fa_icon": "fa-wechat"}],
     "details": {"costs": "free for members of the Dartmouth community"},
     "schedule_background_img": "",
-    "schedule":  [{"date": "Friday, March 03",
+    "schedule":  [{"date": "Wednesday, May 02",
                   "times": [{"time": "6:00-9:00pm", "event": "Have fun"},
                             {"time": "9:00pm-12:00am", "event": "Socialize"}]},
-                  {"date": "Saturday, March 04",
+                  {"date": "Thursday, May 03",
                   "times": [{"time": "9:00-9:30", "event": "Breakfast"},
                             {"time": "9:30-5:30pm", "event": "Hacking"}]},
-                  {"date": "Sunday, March 05",
+                  {"date": "Friday, May 04",
                   "times": [{"time": "9:00-9:30", "event": "Breakfast"},
                             {"time": "9:30-5:30pm", "event": "Hacking"}]}
                   ],
@@ -46,6 +45,6 @@
     "google_maps_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2884.157476893311!2d-72.29015808460174!3d43.70727632911932!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4cb4c9c361e1ddb1%3A0x8b2bba0d5b098fa6!2sMoore+Psychology+Bldg%2C+Hanover%2C+NH+03755!5e0!3m2!1sen!2sus!4v1486338484907",
     "sponsors": [{"name": "Jay Hull, Associate Dean of Social Sciences", "url": "", "logo":""},
       {"name": "Center for Cognitive Neuroscience", "url": "http://www.dartmouth.edu/~ccn", "logo": ""}],
-    "organizers": ["Matteo Visconti di Oleggio Castello", "Yaroslav O. Halchenko", "Sam Nastase", "Luke Chang", "Eshin Jolly"]
+    "organizers": ["Matteo Visconti di Oleggio Castello", "Yaroslav O. Halchenko", "Vassiki Chauhan"]
 
 }
