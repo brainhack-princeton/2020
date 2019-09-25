@@ -3,7 +3,7 @@
   "location": "Princeton, NJ, USA",
   "dates": "November 13-15, 2019",
   "year": "2019",
-  "background_img": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Princeton_University_t    iger_crest2.jpg",
+  "background_img": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Princeton_University_tiger_crest2.jpg",
   "color_theme": {"background": "#e77500", "font": "#fff", "link_color": "#f58025"},
   "global_brainhack_organizers": ["Cameron Craddock"],
   "emailinfo": "snastase@princeton.edu",
@@ -39,7 +39,7 @@
                             {"time": "9:30-5:30pm", "event": "Hacking"}]}
                   ],
     "location_logo": "",
-    "location_name": "Princeton Neuroscience Institute and Department of Psychology, Princeton University",
+    "location_name": "Princeton Neuroscience Institute and Department of Psychology",
     "location_url":"https://pni.princeton.edu/",
     
     "google_maps_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3040.9664262898714!2d-74.65474418460636!3d40.34309077937382!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c3e6c53815e167%3A0x52f009cb85093372!2sPrinceton%20Neuroscience%20Institute!5e0!3m2!1sen!2sus!4v1569436666649!5m2!1sen!2sus",
