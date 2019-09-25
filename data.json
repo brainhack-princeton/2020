@@ -42,7 +42,7 @@
     "location_name": "Princeton Neuroscience Institute and Department of Psychology, Princeton University",
     "location_url":"https://pni.princeton.edu/",
     
-    "google_maps_link": "https://goo.gl/maps/mexbP6a273Y1Ywx47",
+    "google_maps_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3040.9664262898714!2d-74.65474418460636!3d40.34309077937382!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c3e6c53815e167%3A0x52f009cb85093372!2sPrinceton%20Neuroscience%20Institute!5e0!3m2!1sen!2sus!4v1569436666649!5m2!1sen!2sus",
     "sponsors": [{"name": "Kenneth A. Norman, Princeton Computational Memory Lab", "url": "https://compmem.princeton.edu/", "logo":"https://compmem.princeton.edu/wp/wp-content/uploads/2016/10/PCML-logo.png"},
       {"name": "Uri Hasson, Hasson Lab", "url": "https://www.hassonlab.com/", "logo": "https://pbs.twimg.com/profile_images/724604659017625600/7jDklbz0_400x400.jpg"}],
     "organizers": ["Anne Mennen", "Samuel A. Nastase", "Elizabeth McDevitt", "Karina Tachihara"]
