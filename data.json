@@ -9,8 +9,8 @@
   "emailinfo": "snastase@princeton.edu",
   "slack_link":"https://brainhack-slack-invite.herokuapp.com/",
   "project_submit_link":"http://brainhack.org/submit-project/",
-  "title_photo_link":"https://upload.wikimedia.org/wikipedia/commons/0/04/Nassau_Hall_Princeton.JPG",
-  "title_photo_author": "Smallbones",
+  "title_photo_link":"https://upload.wikimedia.org/wikipedia/commons/c/c4/Princeton_University_tiger_crest2.jpg",
+  "title_photo_author": "Quantockgoblin",
   "services":[{
     "name": "Share",
     "desc": "Share your work with neuroscience community.",
