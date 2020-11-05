@@ -10,4 +10,6 @@ conda install:
 1. Fork this repo and rename it (Go to settings); or Import Repository
 2. Edit `data.json` with your site's info and run `python generator.py` 
 3. Add the generated pages: `git add index.html css/css/stylish-portfolio.css`
-4. Commit the changes and push to the `gh-pages` branch of your repo (git push origin gh-pages)
+4. Commit the changes and push to the `gh-pages` branch of your repo
+* `git push -u origin master`
+* `git push origin master:gh-pages`
